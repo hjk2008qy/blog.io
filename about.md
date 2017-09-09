@@ -22,16 +22,16 @@ header-img: "img/green.jpg"
 
 ###代表作：
 
-- [《红楼一梦写扬州》](https://user.qzone.qq.com/181811423/infocenter?_t_=0.24188304694943996/)
+- [《红楼一梦写扬州》](http://user.qzone.qq.com/181811423/blog/1240541472)
 
 
 ###联系
 
 - [博客：www.tianvk.com](www.tianvk.com)
 
-- [微信:tianvk](tianvk)
+- [微信:tianvk]
 
-- [QQ:181811423](181811423)
+- [QQ:181811423]
 
 
 <center>
