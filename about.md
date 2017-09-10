@@ -22,7 +22,7 @@ header-img: "img/green.jpg"
 
 ###代表作：
 
-- [《红楼一梦写扬州》](http://user.qzone.qq.com/181811423/blog/1240541472)
+- [《红楼一梦写扬州》](http://tianvk.com/blog/2017/09/10/honglou-yangzhou/)
 
 
 ###联系
