@@ -27,7 +27,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.tianvk.com](www.tianvk.com)
+- [博客：tianvk.com](www.tianvk.com)
 
 - [微信:tianvk]
 
