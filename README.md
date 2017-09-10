@@ -6,7 +6,7 @@
 
 ##读立写生
 
-我是宗吾，博客：[tianvk.com](tianvk.com)
+我是宗吾，博客：[tianvk.com](http://tianvk.com/)
 
 郑码练习者，开始时间：2017年09月10日至今
 
