@@ -3,7 +3,7 @@ layout: post
 title: 枫叶
 date: 2017-09-10
 categories: blog
-tags: [思念,大学，应聘]
+tags: [思念,大学]
 description: 初恋，十年后的今天，依然有我们的思念
 ---
 #
