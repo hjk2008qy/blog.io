@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是我练习千字文的所有文章"
+description: "人生自信两百年，会当水击三千里"
 header-img: "img/orange.jpg"
 ---
 
