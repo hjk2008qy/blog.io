@@ -6,9 +6,6 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
 
 我是宗吾，郑码学习者，开始时间：从2017年09月10日至今
 
