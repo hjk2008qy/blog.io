@@ -4,7 +4,7 @@
 
 此博客 fork 自 [Cnfeat](http://cnfeat.com/)，感谢。
 
-##读立写生
+##宗于吾心
 
 我是宗吾，博客：[tianvk.com](http://tianvk.com/)
 
